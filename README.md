@@ -60,10 +60,11 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 <div><h1>Compeleted Projects</h1></div>
 </hr>
 <ul>
-  <li>Personal website and portfolio - Coming soon - a dynamic single page website programmed with React & TypeScript - Get to know me</li>
-  <li>DinoMino(https://github.com/MCHCortana/DinoMino) - a dynamic single page website programmed with React & TypeScript - planner for your youngest</li>
-  <li>Datluj(https://github.com/MCHCortana/datluj.cz) -  dynamic single page website programmed with React & TypeScript - chcek your typing skills</li>
-  <li>TickTackToe (https://github.com/MCHCortana/piskvorky) - dynamic multipage website programmed with Javascript - who doesnt like TickTackToe...?</li>
+  <li>JAVA <b>Vizitkovnik</b> https://github.com/MCHCortana/Contact_list - a dynamic aplication written with JAVA, SpringBoot - contact list database with the option of adding new contacts including validation of entry data</li>
+  <li>REACT & Typescript <b>DinoMino</b> https://github.com/MCHCortana/DinoMino - a dynamic single page website programmed with React & TypeScript - planner for your youngest</li>
+  <li>REACT & Typescript <b>Datluj</b> https://github.com/MCHCortana/datluj.cz -  dynamic single page website programmed with React & TypeScript - chcek your typing skills</li>
+  <li>Javasript <b>TickTackToe</b> https://github.com/MCHCortana/piskvorky - dynamic multipage website programmed with Javascript - who doesnt like TickTackToe...?</li>
+  <li>REACT & Typescript Personal website and portfolio - Coming soon - a dynamic single page website programmed with React & TypeScript - Get to know me</li>
 </ul>
 
 
